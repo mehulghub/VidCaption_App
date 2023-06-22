@@ -1,7 +1,7 @@
 #Import all the dependencies
 import streamlit as st
 import os
-from list import imageio
+import imageio
 import ffmpeg
 import numpy as np
 
